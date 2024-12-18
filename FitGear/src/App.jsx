@@ -4,6 +4,7 @@ import Home from './Home';
 import CartPage from './cart/page';
 import { CartProvider } from './context';
 import Footer from './components/Footer';
+import React from 'react';
 
 function App() {
   return (
